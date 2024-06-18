@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Emmanuel
+- 👋 Hi, I’m @ Alimaonu Emmanuel
 - 👀 I’m interested in software development...
 - 🌱 I’m currently learning software development...
 - 💞️ I’m looking to collaborate on software development ...
@@ -7,6 +7,6 @@
 - ⚡ Fun fact: There is no retirement to learning...
 
 <!---
-bigzloty/bigzloty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Alimaonu Emmanuel/Alimaonu Emmanuel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
